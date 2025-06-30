@@ -1,0 +1,7 @@
+streamlit
+geopandas
+pandas
+scikit-learn
+streamlit-folium
+folium
+folium>=0.12
